@@ -57,7 +57,7 @@ const About = () => {
               <div className="relative w-full h-full rounded-full border-4 border-primary/30 flex items-center justify-center bg-card/50 backdrop-blur-sm">
                 <div className="text-center">
                   <div className="img">
-                   <img src="public/mg.jpeg" /*  ABOUT IMAGE  */ alt="Mubish" className="rounded-full w-80 h-80 object-cover" />
+                   <img src="public\img.png" /*  ABOUT IMAGE  */ alt="Mubish" className="rounded-full w-80 h-80 object-cover" />
                   </div>
                   {/* <div className="text-6xl font-bold text-gradient mb-2">MM</div>
                   <p className="text-sm text-muted-foreground">Full Stack Developer</p> */}

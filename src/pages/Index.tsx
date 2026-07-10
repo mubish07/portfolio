@@ -28,9 +28,9 @@ const Index = () => {
       <AnimatedSection direction="right" delay={0.1}>
         <Experience />
       </AnimatedSection>
-      <AnimatedSection direction="left" delay={0.1}>
+      {/* <AnimatedSection direction="left" delay={0.1}>
         <Education />
-      </AnimatedSection>
+      </AnimatedSection> */}
       <AnimatedSection direction="up" delay={0.2}>
         <Contact />
       </AnimatedSection>
